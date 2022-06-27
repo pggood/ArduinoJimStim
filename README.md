@@ -10,5 +10,6 @@ As it is writing directly to PORTB you could potentially have up to 6 outputs in
 - 01 is ignition on cam off
 - 02 is cam on ignition off
 - 03 is both can and ignition on
+
 The second digit is the number of degrees this pattern applies for. 
 These patterns can either be for 360 degrees or 720 degrees.
