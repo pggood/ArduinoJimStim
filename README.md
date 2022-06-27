@@ -1,7 +1,4 @@
-# ArduinoJimStim
-Arduino implementation of the JimStim used for megasquirt
-
-JimStim for Arduino
+# ArduinoJimStim an Arduino implementation of the JimStim used for megasquirt
 
 A pattern based ignition emulator with 44 common ignition and cam patterns . 
 
@@ -22,10 +19,11 @@ As it is writing directly to PORTB you could potentially have up to 6 outputs in
 
 These patterns can either be for 360 degrees or 720 degrees.
 
-If you are constructing a patern be carefull to add up all the degrees in the second field and make sure it adds up to either 360 or 720
+If you are constructing a pattern be careful to add up all the degrees in the second field and make sure it adds up to either 360 or 720
 
 This can be done in a spreadsheet first.
 
-The repository holds the Ardunio source code as well as the Kicad PCB Schematic and gerber files that can be made by people like pcbway, jlcpcb or whoever you prefered PCB maker is. The design is through hole so can be put together by a hobyist with basic soldering skills.
+The repository holds the Ardunio source code as well as the Kicad PCB Schematic and gerber files that can be made by people like pcbway, jlcpcb or whoever you preferred PCB maker is. The design is through hole so can be put together by a hobbyist with basic soldering skills.
 
-This is compleatly open source so do with it as you wish however it is provided on the basis that you use it with your best skill and knowledge and may contain bugs
+This is completely open source so do with it as you wish however it is provided on the basis that you use it with your best skill and knowledge and may contain bugs
+
