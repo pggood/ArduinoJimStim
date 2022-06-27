@@ -14,3 +14,5 @@ As it is writing directly to PORTB you could potentially have up to 6 outputs in
 The second digit is the number of degrees this pattern applies for. 
 
 These patterns can either be for 360 degrees or 720 degrees.
+
+The repository holds the Ardunio source code as well as the Kicad PCB Schematic and gerber files that can be made by people like pcbway, jlcpcb or whoever you prefered PCB maker is. The design is through hole so can be put together by a hobyist with basic soldering skills.
