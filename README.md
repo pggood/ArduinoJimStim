@@ -24,6 +24,6 @@ These patterns can either be for 360 degrees or 720 degrees.
 
 If you are constructing a patern be carefull to add up all the degrees in the second field and make sure it adds up to either 360 or 720
 
-Tis can be done in a spreadsheet first.
+This can be done in a spreadsheet first.
 
 The repository holds the Ardunio source code as well as the Kicad PCB Schematic and gerber files that can be made by people like pcbway, jlcpcb or whoever you prefered PCB maker is. The design is through hole so can be put together by a hobyist with basic soldering skills.
