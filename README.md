@@ -28,4 +28,4 @@ This can be done in a spreadsheet first.
 
 The repository holds the Ardunio source code as well as the Kicad PCB Schematic and gerber files that can be made by people like pcbway, jlcpcb or whoever you prefered PCB maker is. The design is through hole so can be put together by a hobyist with basic soldering skills.
 
-This is compleatly open source so do with it as you wish however it is provided on the basis that use it with your skill and knowledge and may contain bugs
+This is compleatly open source so do with it as you wish however it is provided on the basis that you use it with your best skill and knowledge and may contain bugs
